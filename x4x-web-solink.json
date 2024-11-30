@@ -1,0 +1,24 @@
+{
+  "social_links": [
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/100075421394195",
+      "icon": "fab fa-facebook-f"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/TEAM_X4X",
+      "icon": "fab fa-telegram"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Alifhosson",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/alif__hosson",
+      "icon": "fab fa-instagram"
+    }
+  ]
+}
